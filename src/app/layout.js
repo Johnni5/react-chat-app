@@ -12,7 +12,6 @@ export default function RootLayout({ children }) {
         <title>Epic Chat</title>
       </head>
       <body>
-        <h1>HEELLOOO</h1>
         {children}
       </body>
     </html>
