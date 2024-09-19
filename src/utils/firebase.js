@@ -4,12 +4,7 @@ import { GoogleAuthProvider, getAuth } from "firebase/auth";
 import { getStorage } from "firebase/storage";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyD8Sn8GP9ut3z9aREvYggFW-ZkDclqY9k4",
-  authDomain: "epicchat-c9692.firebaseapp.com",
-  projectId: "epicchat-c9692",
-  storageBucket: "epicchat-c9692.appspot.com",
-  messagingSenderId: "664937946849",
-  appId: "1:664937946849:web:0b26ed6dfb4f25ea6ca1a0"
+ 
 };
 
 // Initialize Firebase
